@@ -1,0 +1,3 @@
+# Ignore all of the files/folders in the node_modules
+# as these will be installed/updated through npm
+node_modules/
